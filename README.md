@@ -1,4 +1,4 @@
-# DeepL Expert Tool 🛠️
+# Telegram DeepL Expert Tool 🛠️
 
 Un plugin avanzado para clientes de Telegram que integra la API de DeepL para traducciones y mejoras de texto de alta calidad.
 
