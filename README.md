@@ -22,7 +22,7 @@ Este plugin no es solo un traductor, es una navaja suiza para manejar texto en c
 
   * **⚙️ Gestión Avanzada de API:**
 
-      * **Múltiples Claves:** ¿Usás mucho la API? Agregá varias claves (gratuitas o Pro) y el plugin las rotará automáticamente para que nunca te quedes a gamba.
+      * **Múltiples Claves:** ¿Usás mucho la API? Agregá varias claves (gratuitas o Pro).
       * **Soporte Pro/Free:** Cambiá entre los *endpoints* de la API gratuita y la Pro con un simple clic.
 
   * **🌐 Traducción Experta:**
