@@ -40,7 +40,7 @@ Este plugin no es solo un traductor, es una navaja suiza para manejar texto en c
 
 Instalar el plugin es una pavada. Seguí estos pasos:
 
-1.  Andá a la sección de **[Releases](https://www.google.com/search?q=https://github.com/LuisAlejandroVega/telegram-deepl-expert-plugin/releases/latest)** en este repositorio.
+1.  Andá a la sección de **[Releases](https://github.com/LuisAlejandroVega/telegram-deepl-expert-plugin/releases/latest)** en este repositorio.
 2.  Descargá el archivo `.plugin` de la última versión (por ej: `DeepLAutoTranslate-10.0.0.plugin`).
 3.  Movelo a la carpeta de plugins de tu cliente de Telegram (como Nekogram, Catgráma, etc.).
 4.  Reiniciá el cliente o recargá los plugins desde los ajustes. ¡Listo\!
