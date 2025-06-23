@@ -42,7 +42,7 @@ Instalar el plugin es una pavada. Seguí estos pasos:
 
 1.  Andá a la sección de **[Releases](https://github.com/LuisAlejandroVega/telegram-deepl-expert-plugin/releases/latest)** en este repositorio.
 2.  Descargá el archivo `.plugin` de la última versión (por ej: `DeepLAutoTranslate-10.0.0.plugin`).
-3.  Movelo a la carpeta de plugins de tu cliente de Telegram (como Nekogram, Catgráma, etc.).
+3.  Instala el plugin en tu cliente de Telegram (Ayugram/ExteraGram).
 4.  Reiniciá el cliente o recargá los plugins desde los ajustes. ¡Listo\!
 
 ## 🚀 Uso y Configuración
