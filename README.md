@@ -11,7 +11,6 @@ Un plugin avanzado para clientes de Telegram que integra la API de DeepL para tr
 
 > Llevá tus conversaciones a otro nivel. Traducí al instante, mejorá tu redacción y usá glosarios para una comunicación precisa, todo directamente desde Telegram.
 
-\<br\>
 
 *Aquí quedaría genial un GIF mostrando el plugin en acción, por ejemplo, traduciendo un mensaje o abriendo los ajustes.*
 
