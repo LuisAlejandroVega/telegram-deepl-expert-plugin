@@ -78,7 +78,7 @@ If this plugin saves you time and you find it useful, you can buy me a coffee to
   * **Support & Community Group:** [Join the Telegram group](https://t.me/plugins_luisalejandrovega)
   * **PayPal:** [Donate via PayPal](https://www.paypal.com/paypalme/LuisAlejandroVega)
   * **USDT (TRC20):** `TYpoRvAZn1wYEJ9ao2CStDWQFbH6uA8uFG`
-  * **TON / USDT (TON):** `UQBcMQhWdjHWwqWVe5_yQk1dWXJm4AGZmfQN5YX0zFY2zfwO`
+  * **TON / USDT (TON):** `UQBcMQhWdjHWWwqWVe5_yQk1dWXJm4AGZmfQN5YX0zFY2zfwO`
 
 ## 📜 License
 
